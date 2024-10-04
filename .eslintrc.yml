@@ -7,7 +7,6 @@ plugins:
   - jest
 
 extends:
-  - airbnb
   - plugin:jest/recommended
 
 rules:
